@@ -1,0 +1,10 @@
+Noise,Correct,Total,Accuracy (%)
+original,45315,47996,94.41
+gaussian_noise,43590,47996,90.82
+salt_pepper,42036,47996,87.58
+gaussian_blur,45214,47996,94.2
+motion_blur,31877,47996,66.42
+rotation_5,44860,47996,93.47
+rotation_10,44107,47996,91.9
+brightness,44874,47996,93.5
+contrast,44842,47996,93.43

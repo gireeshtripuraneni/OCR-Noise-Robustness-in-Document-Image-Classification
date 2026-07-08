@@ -1,0 +1,66 @@
+============================================================
+OCR ROBUSTNESS EVALUATION REPORT
+============================================================
+
+Total Evaluations : 431964
+Overall Accuracy : 89.52%
+Average Confidence : 90.48%
+
+============================================================
+NOISE PERFORMANCE
+============================================================
+
+Noise : brightness
+Classification Accuracy : 93.50%
+Average OCR Words : 142.18
+Average OCR Characters : 859.95
+
+Noise : contrast
+Classification Accuracy : 93.43%
+Average OCR Words : 135.24
+Average OCR Characters : 804.69
+
+Noise : gaussian_blur
+Classification Accuracy : 94.20%
+Average OCR Words : 72.49
+Average OCR Characters : 409.38
+
+Noise : gaussian_noise
+Classification Accuracy : 90.82%
+Average OCR Words : 141.27
+Average OCR Characters : 871.72
+
+Noise : motion_blur
+Classification Accuracy : 66.42%
+Average OCR Words : 1.29
+Average OCR Characters : 5.14
+
+Noise : original
+Classification Accuracy : 94.41%
+Average OCR Words : 144.49
+Average OCR Characters : 889.08
+
+Noise : rotation_10
+Classification Accuracy : 91.90%
+Average OCR Words : 144.22
+Average OCR Characters : 804.80
+
+Noise : rotation_5
+Classification Accuracy : 93.47%
+Average OCR Words : 139.24
+Average OCR Characters : 825.45
+
+Noise : salt_pepper
+Classification Accuracy : 87.58%
+Average OCR Words : 113.73
+Average OCR Characters : 727.76
+
+============================================================
+BEST PERFORMING NOISE
+============================================================
+original (94.41%)
+
+============================================================
+WORST PERFORMING NOISE
+============================================================
+motion_blur (66.42%)

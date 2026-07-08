@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+
+data/
+
+results/noisy/
+results/plots/
+
+.ipynb_checkpoints/
+models/document_classifier.pth

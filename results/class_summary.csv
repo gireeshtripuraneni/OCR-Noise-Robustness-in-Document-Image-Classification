@@ -1,0 +1,17 @@
+Class,Correct,Total,Accuracy (%)
+advertisement,25517,26946,94.7
+budget,24046,27018,89.0
+email,26018,26937,96.59
+file folder,25608,27027,94.75
+form,23058,26946,85.57
+handwritten,25591,27045,94.62
+invoice,24071,26928,89.39
+letter,23722,27135,87.42
+memo,23778,26964,88.18
+news article,23466,27009,86.88
+presentation,21613,27054,79.89
+questionnaire,24083,27063,88.99
+resume,24637,27036,91.13
+scientific publication,25176,26865,93.71
+scientific report,22257,26991,82.46
+specification,24074,27000,89.16

@@ -1,0 +1,10 @@
+Noise,Classification Accuracy (%),Images,Average Characters,Average Words
+brightness,93.5,320,859.95,142.18
+contrast,93.43,320,804.69,135.24
+gaussian_blur,94.2,320,409.38,72.49
+gaussian_noise,90.82,320,871.72,141.27
+motion_blur,66.42,320,5.14,1.29
+original,94.41,320,889.08,144.49
+rotation_10,91.9,320,804.8,144.22
+rotation_5,93.47,320,825.45,139.24
+salt_pepper,87.58,320,727.76,113.73

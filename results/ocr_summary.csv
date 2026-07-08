@@ -1,0 +1,10 @@
+Noise,Images,Average Characters,Average Words
+original,320,889.08,144.49
+gaussian_noise,320,871.72,141.27
+salt_pepper,320,727.76,113.73
+gaussian_blur,320,409.38,72.49
+motion_blur,320,5.14,1.29
+rotation_5,320,825.45,139.24
+rotation_10,320,804.8,144.22
+brightness,320,859.95,142.18
+contrast,320,804.69,135.24
