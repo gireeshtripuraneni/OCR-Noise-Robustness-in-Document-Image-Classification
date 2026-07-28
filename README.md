@@ -1,6 +1,7 @@
 # 📄 OCR Noise Robustness in Document Image Classification
 
 A deep learning-based document analysis system that classifies scanned document images, extracts text using OCR, and evaluates model robustness under different image degradations through an interactive Streamlit web application.
+LINK to Colab notebook: https://colab.research.google.com/drive/1RCJAquO-z9nRWithkbo61uP8PsCvUXO0?usp=sharing
 
 ---
 
